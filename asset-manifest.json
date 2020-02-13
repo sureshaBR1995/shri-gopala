@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shri-gopala/static/css/main.a614ba6f.chunk.css",
+    "main.js": "/shri-gopala/static/js/main.6df10cba.chunk.js",
+    "main.js.map": "/shri-gopala/static/js/main.6df10cba.chunk.js.map",
+    "runtime-main.js": "/shri-gopala/static/js/runtime-main.30a41e70.js",
+    "runtime-main.js.map": "/shri-gopala/static/js/runtime-main.30a41e70.js.map",
+    "static/js/2.964a0902.chunk.js": "/shri-gopala/static/js/2.964a0902.chunk.js",
+    "static/js/2.964a0902.chunk.js.map": "/shri-gopala/static/js/2.964a0902.chunk.js.map",
+    "index.html": "/shri-gopala/index.html",
+    "precache-manifest.13c94469673caec556db99079f12da20.js": "/shri-gopala/precache-manifest.13c94469673caec556db99079f12da20.js",
+    "service-worker.js": "/shri-gopala/service-worker.js",
+    "static/css/main.a614ba6f.chunk.css.map": "/shri-gopala/static/css/main.a614ba6f.chunk.css.map",
+    "static/js/2.964a0902.chunk.js.LICENSE": "/shri-gopala/static/js/2.964a0902.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a41e70.js",
+    "static/js/2.964a0902.chunk.js",
+    "static/css/main.a614ba6f.chunk.css",
+    "static/js/main.6df10cba.chunk.js"
+  ]
+}
